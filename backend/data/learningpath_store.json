@@ -1,0 +1,2003 @@
+{
+  "users": [
+    {
+      "_id": "emp_alex_chen_001",
+      "id": "emp_alex_chen_001",
+      "email": "alex.chen@enterprise.com",
+      "hashed_password": "$2b$10$JH8KpJXpd11.Mlu3L4zwZOc4XQS69.pVvf14Y84kEwEvdN7TE502K",
+      "full_name": "Alex Chen",
+      "role": "employee",
+      "department": "Engineering",
+      "current_role": "Junior Software Developer",
+      "experience_years": 2.5,
+      "skills": [
+        {
+          "name": "Python",
+          "proficiency": "Intermediate",
+          "category": "Languages",
+          "years_experience": 2.5,
+          "verified": true
+        },
+        {
+          "name": "FastAPI",
+          "proficiency": "Intermediate",
+          "category": "Frameworks",
+          "years_experience": 1.5,
+          "verified": true
+        },
+        {
+          "name": "Docker & Containerization",
+          "proficiency": "Intermediate",
+          "category": "DevOps",
+          "years_experience": 1.0,
+          "verified": true
+        },
+        {
+          "name": "Git",
+          "proficiency": "Advanced",
+          "category": "Tools",
+          "years_experience": 3.0,
+          "verified": true
+        },
+        {
+          "name": "LangGraph Agentic Workflows",
+          "proficiency": "Advanced",
+          "category": "Other Professional Skills",
+          "years_experience": 1.0,
+          "verified": true
+        },
+        {
+          "name": "LangGraph Agentic Workflows",
+          "proficiency": "Advanced",
+          "category": "Other Professional Skills",
+          "years_experience": 1.0,
+          "verified": true
+        },
+        {
+          "name": "LangGraph Agentic Workflows",
+          "proficiency": "Advanced",
+          "category": "Other Professional Skills",
+          "years_experience": 1.0,
+          "verified": true
+        }
+      ],
+      "soft_skills": [
+        "Critical Thinking",
+        "Agile Collaboration",
+        "Technical Writing"
+      ],
+      "career_interests": [
+        "Generative AI",
+        "Agentic Systems",
+        "Cloud Infrastructure"
+      ],
+      "target_role": "AI Engineer",
+      "weekly_hours_available": 8,
+      "readiness_score": 62.5,
+      "onboarding_completed": true,
+      "created_at": "2026-11-25T16:21:29.503148",
+      "updated_at": "2026-11-25T16:21:29.503160"
+    },
+    {
+      "_id": "hr_sarah_jenkins_001",
+      "id": "hr_sarah_jenkins_001",
+      "email": "sarah.hr@enterprise.com",
+      "hashed_password": "$2b$10$8ASAn7Vs.ReesLLiCjm/yuDHTRM8DCbleg7pQuPApAFPqa3u0AKIe",
+      "full_name": "Sarah Jenkins",
+      "role": "hr_manager",
+      "department": "Human Resources & Talent",
+      "current_role": "Director of Workforce Development",
+      "experience_years": 8.0,
+      "skills": [
+        {
+          "name": "Talent Strategy",
+          "proficiency": "Expert",
+          "category": "Management",
+          "years_experience": 8.0,
+          "verified": true
+        },
+        {
+          "name": "Organizational Development",
+          "proficiency": "Expert",
+          "category": "Management",
+          "years_experience": 7.0,
+          "verified": true
+        }
+      ],
+      "soft_skills": [
+        "Executive Leadership",
+        "Conflict Resolution",
+        "Strategic Planning"
+      ],
+      "career_interests": [
+        "Workforce Upskilling",
+        "AI Talent Analytics"
+      ],
+      "target_role": "VP of Talent Intelligence",
+      "weekly_hours_available": 5,
+      "readiness_score": 92.0,
+      "onboarding_completed": true,
+      "created_at": "2026-11-25T16:21:29.564304",
+      "updated_at": "2026-11-25T16:21:29.564315"
+    },
+    {
+      "_id": "admin_david_kim_001",
+      "id": "admin_david_kim_001",
+      "email": "david.admin@enterprise.com",
+      "hashed_password": "$2b$10$Pds12ySd8.CUvsTWUGqGNuyijy7AYLQP7Exc7vu35V3jPmSdisBI.",
+      "full_name": "David Kim",
+      "role": "learning_admin",
+      "department": "Learning & Development",
+      "current_role": "Enterprise L&D Administrator",
+      "experience_years": 6.0,
+      "skills": [
+        {
+          "name": "Curriculum Design",
+          "proficiency": "Expert",
+          "category": "L&D",
+          "years_experience": 6.0,
+          "verified": true
+        },
+        {
+          "name": "LMS Management",
+          "proficiency": "Expert",
+          "category": "Operations",
+          "years_experience": 5.0,
+          "verified": true
+        }
+      ],
+      "soft_skills": [
+        "Program Management",
+        "Instructional Design"
+      ],
+      "career_interests": [
+        "Adaptive Learning Tech",
+        "AI Mentorship Platforms"
+      ],
+      "target_role": "Head of Enterprise Education",
+      "weekly_hours_available": 10,
+      "readiness_score": 95.0,
+      "onboarding_completed": true,
+      "created_at": "2026-11-25T16:21:29.623523",
+      "updated_at": "2026-11-25T16:21:29.623547"
+    },
+    {
+      "_id": "0c888659-55a3-48b2-8ecb-7869be6442bb",
+      "id": "0c888659-55a3-48b2-8ecb-7869be6442bb",
+      "email": "user_3b009c@enterprise.com",
+      "hashed_password": "$2b$10$Cl3YCATtxmGfCD2LqeiAFeAZ7uLeTKFbt1wRVKmKvp/bz6D5saeLa",
+      "full_name": "Jordan Smith",
+      "role": "employee",
+      "department": "Engineering",
+      "current_role": "Backend Engineer",
+      "experience_years": 2.0,
+      "skills": [
+        {
+          "name": "Python",
+          "proficiency": "Intermediate",
+          "category": "Languages",
+          "years_experience": 2.0,
+          "verified": true
+        },
+        {
+          "name": "Git",
+          "proficiency": "Advanced",
+          "category": "Tools",
+          "years_experience": 2.5,
+          "verified": true
+        }
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Collaboration"
+      ],
+      "career_interests": [
+        "Artificial Intelligence",
+        "Cloud Architecture"
+      ],
+      "target_role": "AI Engineer",
+      "weekly_hours_available": 6,
+      "readiness_score": 58.0,
+      "onboarding_completed": false,
+      "created_at": "2026-11-25T16:21:29.859096",
+      "updated_at": "2026-11-25T16:21:29.859107"
+    },
+    {
+      "_id": "b25bd042-f544-4690-8091-3ac3269e74e5",
+      "id": "b25bd042-f544-4690-8091-3ac3269e74e5",
+      "email": "user_f541b2@enterprise.com",
+      "hashed_password": "$2b$10$CMIkTxHQt4rh.12mjedWI.z65HemCxcsPlERWP95nQLT7rRVpqF86",
+      "full_name": "Jordan Smith",
+      "role": "employee",
+      "department": "Engineering",
+      "current_role": "Backend Engineer",
+      "experience_years": 2.0,
+      "skills": [
+        {
+          "name": "Python",
+          "proficiency": "Intermediate",
+          "category": "Languages",
+          "years_experience": 2.0,
+          "verified": true
+        },
+        {
+          "name": "Git",
+          "proficiency": "Advanced",
+          "category": "Tools",
+          "years_experience": 2.5,
+          "verified": true
+        }
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Collaboration"
+      ],
+      "career_interests": [
+        "Artificial Intelligence",
+        "Cloud Architecture"
+      ],
+      "target_role": "AI Engineer",
+      "weekly_hours_available": 6,
+      "readiness_score": 58.0,
+      "onboarding_completed": false,
+      "created_at": "2026-11-25T16:24:30.585167",
+      "updated_at": "2026-11-25T16:24:30.585176"
+    },
+    {
+      "_id": "c6bb886c-91e0-4f5f-a7b6-e999b4620e39",
+      "id": "c6bb886c-91e0-4f5f-a7b6-e999b4620e39",
+      "email": "user_b0509f@enterprise.com",
+      "hashed_password": "$2b$10$wgPAtyiipK4T/6iLLIy0IuhdR2EVupSRoCyFl1xKbdogto4wx.ANS",
+      "full_name": "Jordan Smith",
+      "role": "employee",
+      "department": "Engineering",
+      "current_role": "Backend Engineer",
+      "experience_years": 2.0,
+      "skills": [
+        {
+          "name": "Python",
+          "proficiency": "Intermediate",
+          "category": "Languages",
+          "years_experience": 2.0,
+          "verified": true
+        },
+        {
+          "name": "Git",
+          "proficiency": "Advanced",
+          "category": "Tools",
+          "years_experience": 2.5,
+          "verified": true
+        }
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Collaboration"
+      ],
+      "career_interests": [
+        "Artificial Intelligence",
+        "Cloud Architecture"
+      ],
+      "target_role": "AI Engineer",
+      "weekly_hours_available": 6,
+      "readiness_score": 58.0,
+      "onboarding_completed": false,
+      "created_at": "2026-11-25T17:08:16.367361",
+      "updated_at": "2026-11-25T17:08:16.367373"
+    },
+    {
+      "_id": "4685636b-0d97-4bb6-9a6c-08343756a8c7",
+      "id": "4685636b-0d97-4bb6-9a6c-08343756a8c7",
+      "email": "user_d600b3@enterprise.com",
+      "hashed_password": "$2b$10$kvUUMmfvtXf.8HAZ9iFFoeyXRD5EqnOudVOli5af0MHanRPk7ci5C",
+      "full_name": "Jordan Smith",
+      "role": "employee",
+      "department": "Engineering",
+      "current_role": "Backend Engineer",
+      "experience_years": 2.0,
+      "skills": [
+        {
+          "name": "Python",
+          "proficiency": "Intermediate",
+          "category": "Languages",
+          "years_experience": 2.0,
+          "verified": true
+        },
+        {
+          "name": "Git",
+          "proficiency": "Advanced",
+          "category": "Tools",
+          "years_experience": 2.5,
+          "verified": true
+        }
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Collaboration"
+      ],
+      "career_interests": [
+        "Artificial Intelligence",
+        "Cloud Architecture"
+      ],
+      "target_role": "AI Engineer",
+      "weekly_hours_available": 6,
+      "readiness_score": 58.0,
+      "onboarding_completed": false,
+      "created_at": "2026-11-25T18:03:08.677687",
+      "updated_at": "2026-11-25T18:03:08.677697"
+    },
+    {
+      "_id": "826d0da5-0b3e-417f-8c6b-80db85fb7b7f",
+      "id": "826d0da5-0b3e-417f-8c6b-80db85fb7b7f",
+      "email": "user_26f3d7@enterprise.com",
+      "hashed_password": "$2b$10$TeKCWHKy3trCR47cOfvhhuS.HQrX3jg6/Q4HXnq4/xIV6s8dRk4fG",
+      "full_name": "Jordan Smith",
+      "role": "employee",
+      "department": "Engineering",
+      "current_role": "Backend Engineer",
+      "experience_years": 2.0,
+      "skills": [
+        {
+          "name": "Python",
+          "proficiency": "Intermediate",
+          "category": "Languages",
+          "years_experience": 2.0,
+          "verified": true
+        },
+        {
+          "name": "Git",
+          "proficiency": "Advanced",
+          "category": "Tools",
+          "years_experience": 2.5,
+          "verified": true
+        }
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Collaboration"
+      ],
+      "career_interests": [
+        "Artificial Intelligence",
+        "Cloud Architecture"
+      ],
+      "target_role": "AI Engineer",
+      "weekly_hours_available": 6,
+      "readiness_score": 58.0,
+      "onboarding_completed": false,
+      "created_at": "2026-11-25T18:03:54.593731",
+      "updated_at": "2026-11-25T18:03:54.593743"
+    }
+  ],
+  "memento_memories": [
+    {
+      "_id": "61246c20-c4fa-4009-80f3-e1bb0dc43852",
+      "id": "61246c20-c4fa-4009-80f3-e1bb0dc43852",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "completed_course",
+      "title": "Completed: Python Object-Oriented Programming & AsyncIO",
+      "content": "Finished 20-hour intensive course on Python asynchronous patterns and concurrency.",
+      "details": {
+        "provider": "Coursera / DeepLearning.AI",
+        "score": 95,
+        "completed_year": 2026
+      },
+      "valid_from": "2026-11-25T16:21:29.625218",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "course_verification",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T16:21:29.625230"
+    },
+    {
+      "_id": "4c88c082-472c-40e3-97a9-c53a2ff6c4bc",
+      "id": "4c88c082-472c-40e3-97a9-c53a2ff6c4bc",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "abandoned_course",
+      "title": "Abandoned: Pure Theoretical Linear Algebra for ML",
+      "content": "Discontinued after module 2 because content lacked applied Python coding exercises.",
+      "details": {
+        "reason": "Pacing too theoretical; prefers hands-on code labs",
+        "drop_week": 2
+      },
+      "valid_from": "2026-11-25T16:21:29.626541",
+      "valid_to": null,
+      "confidence": 0.9,
+      "source": "lms_telemetry",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T16:21:29.626550"
+    },
+    {
+      "_id": "19e34421-7604-4eca-a005-4403b9a07342",
+      "id": "19e34421-7604-4eca-a005-4403b9a07342",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Verified Skill: Docker Containerization",
+      "content": "Successfully containerized a multi-service FastAPI microservice with health checks.",
+      "details": {
+        "skill": "Docker & Containerization",
+        "proficiency": "Intermediate"
+      },
+      "valid_from": "2026-11-25T16:21:29.627138",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "peer_review",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T16:21:29.627143"
+    },
+    {
+      "_id": "d86657b1-a04b-48f7-9bf3-435d538f0c03",
+      "id": "d86657b1-a04b-48f7-9bf3-435d538f0c03",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "learning_preference",
+      "title": "Preference: Hands-on Project Labs",
+      "content": "Alex learns best with practical GitHub repositories and guided capstone deliverables rather than multiple-choice quizzes.",
+      "details": {
+        "format": "project_based",
+        "preferred_session_length": 90
+      },
+      "valid_from": "2026-11-25T16:21:29.627762",
+      "valid_to": null,
+      "confidence": 0.95,
+      "source": "onboarding_wizard",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T16:21:29.627768"
+    },
+    {
+      "_id": "cae06a52-1b57-47db-bfae-8f28d3aafcd0",
+      "id": "cae06a52-1b57-47db-bfae-8f28d3aafcd0",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "roadmap_version",
+      "title": "Generated Roadmap v1 for AI Engineer",
+      "content": "Created adaptive roadmap with 6 milestones focusing on Python, RAG Architecture & Evaluators, LangChain & LlamaIndex.",
+      "details": {
+        "version": 1,
+        "target_role": "AI Engineer",
+        "roadmap_id": "6a57717d-9e63-4cbf-b2f5-9e39572525ef"
+      },
+      "valid_from": "2026-11-25T16:21:29.633083",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "employee_action",
+      "applied_in_roadmap_version": 1,
+      "created_at": "2026-11-25T16:21:29.633088"
+    },
+    {
+      "_id": "2e183468-f7e4-4ad4-9b58-b99692cc2b89",
+      "id": "2e183468-f7e4-4ad4-9b58-b99692cc2b89",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Built Microservice in Go",
+      "content": "Demonstrated low-latency API handling in Golang.",
+      "details": {
+        "benchmark_ms": 1.2
+      },
+      "valid_from": "2026-11-25T16:21:30.003974",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "manual_entry",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T16:21:30.003980"
+    },
+    {
+      "_id": "8710018a-450b-40bf-a21f-add41a794807",
+      "id": "8710018a-450b-40bf-a21f-add41a794807",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Demonstrated Competency: Python",
+      "content": "Successfully completed week 1 milestone project for Python.",
+      "details": {
+        "skill": "Python",
+        "proficiency": "Advanced",
+        "week": 1
+      },
+      "valid_from": "2026-11-25T16:21:30.076395",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "assessment_checkpoint",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T16:21:30.076406"
+    },
+    {
+      "_id": "288876ad-5558-4a28-9fec-0bea922ef9c3",
+      "id": "288876ad-5558-4a28-9fec-0bea922ef9c3",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Built Microservice in Go",
+      "content": "Demonstrated low-latency API handling in Golang.",
+      "details": {
+        "benchmark_ms": 1.2
+      },
+      "valid_from": "2026-11-25T16:24:30.728032",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "manual_entry",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T16:24:30.728038"
+    },
+    {
+      "_id": "659451a1-0f40-460b-92ee-d481a49f8d36",
+      "id": "659451a1-0f40-460b-92ee-d481a49f8d36",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Demonstrated Competency: Python",
+      "content": "Successfully completed week 1 milestone project for Python.",
+      "details": {
+        "skill": "Python",
+        "proficiency": "Advanced",
+        "week": 1
+      },
+      "valid_from": "2026-11-25T16:24:30.796398",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "assessment_checkpoint",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T16:24:30.796404"
+    },
+    {
+      "_id": "484e449a-9899-4238-aece-c2c7e9db6acf",
+      "id": "484e449a-9899-4238-aece-c2c7e9db6acf",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Built Microservice in Go",
+      "content": "Demonstrated low-latency API handling in Golang.",
+      "details": {
+        "benchmark_ms": 1.2
+      },
+      "valid_from": "2026-11-25T17:08:16.517312",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "manual_entry",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T17:08:16.517318"
+    },
+    {
+      "_id": "d835885f-5468-4c4b-acbc-08a1cb67efe6",
+      "id": "d835885f-5468-4c4b-acbc-08a1cb67efe6",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Demonstrated Competency: Python",
+      "content": "Successfully completed week 1 milestone project for Python.",
+      "details": {
+        "skill": "Python",
+        "proficiency": "Advanced",
+        "week": 1
+      },
+      "valid_from": "2026-11-25T17:08:16.583900",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "assessment_checkpoint",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T17:08:16.583907"
+    },
+    {
+      "_id": "58327024-e22e-4ca6-8a27-160a8f6c7838",
+      "id": "58327024-e22e-4ca6-8a27-160a8f6c7838",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Acquired New Competency: LangGraph Agentic Workflows",
+      "content": "Employee demonstrated proficiency in LangGraph Agentic Workflows at Advanced level.",
+      "details": {
+        "skill": "LangGraph Agentic Workflows",
+        "level": "Advanced"
+      },
+      "valid_from": "2026-11-25T17:08:16.949753",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "digital_twin_update",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T17:08:16.949760"
+    },
+    {
+      "_id": "f26e8735-f9c8-4fef-8f18-0b163de84e25",
+      "id": "f26e8735-f9c8-4fef-8f18-0b163de84e25",
+      "employee_id": "hr_sarah_jenkins_001",
+      "memory_type": "roadmap_version",
+      "title": "Generated Roadmap v1 for VP of Talent Intelligence",
+      "content": "Created adaptive roadmap with 7 milestones focusing on Python, RAG Architecture & Evaluators, LangChain & LlamaIndex.",
+      "details": {
+        "version": 1,
+        "target_role": "VP of Talent Intelligence",
+        "roadmap_id": "12debe4e-900d-43a7-871f-9127894c93d6"
+      },
+      "valid_from": "2026-11-25T17:17:10.173206",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "employee_action",
+      "applied_in_roadmap_version": 1,
+      "created_at": "2026-11-25T17:17:10.173233"
+    },
+    {
+      "_id": "a9f09d75-53b2-49e8-a086-ddf938e9c247",
+      "id": "a9f09d75-53b2-49e8-a086-ddf938e9c247",
+      "employee_id": "admin_david_kim_001",
+      "memory_type": "roadmap_version",
+      "title": "Generated Roadmap v1 for Head of Enterprise Education",
+      "content": "Created adaptive roadmap with 7 milestones focusing on Python, RAG Architecture & Evaluators, LangChain & LlamaIndex.",
+      "details": {
+        "version": 1,
+        "target_role": "Head of Enterprise Education",
+        "roadmap_id": "c6276088-0010-4b53-9a5e-92f3bc19de7a"
+      },
+      "valid_from": "2026-11-25T17:17:11.939633",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "employee_action",
+      "applied_in_roadmap_version": 1,
+      "created_at": "2026-11-25T17:17:11.939653"
+    },
+    {
+      "_id": "cb0b6fca-e951-44bf-a073-4ebab11b7c0b",
+      "id": "cb0b6fca-e951-44bf-a073-4ebab11b7c0b",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Built Microservice in Go",
+      "content": "Demonstrated low-latency API handling in Golang.",
+      "details": {
+        "benchmark_ms": 1.2
+      },
+      "valid_from": "2026-11-25T18:03:08.870270",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "manual_entry",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T18:03:08.870276"
+    },
+    {
+      "_id": "1da834e6-ef33-48c6-8512-4b0e66e715e1",
+      "id": "1da834e6-ef33-48c6-8512-4b0e66e715e1",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Demonstrated Competency: Python",
+      "content": "Successfully completed week 1 milestone project for Python.",
+      "details": {
+        "skill": "Python",
+        "proficiency": "Advanced",
+        "week": 1
+      },
+      "valid_from": "2026-11-25T18:03:08.957244",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "assessment_checkpoint",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T18:03:08.957250"
+    },
+    {
+      "_id": "d569e29b-2407-40d5-ae33-2b585bbaeefe",
+      "id": "d569e29b-2407-40d5-ae33-2b585bbaeefe",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Acquired New Competency: LangGraph Agentic Workflows",
+      "content": "Employee demonstrated proficiency in LangGraph Agentic Workflows at Advanced level.",
+      "details": {
+        "skill": "LangGraph Agentic Workflows",
+        "level": "Advanced"
+      },
+      "valid_from": "2026-11-25T18:03:09.369333",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "digital_twin_update",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T18:03:09.369342"
+    },
+    {
+      "_id": "e3da81af-cbf2-42f3-8e53-9e1deadfac39",
+      "id": "e3da81af-cbf2-42f3-8e53-9e1deadfac39",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Built Microservice in Go",
+      "content": "Demonstrated low-latency API handling in Golang.",
+      "details": {
+        "benchmark_ms": 1.2
+      },
+      "valid_from": "2026-11-25T18:03:55.037109",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "manual_entry",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T18:03:55.037115"
+    },
+    {
+      "_id": "4a4e51a6-329f-411a-83a9-c828dd5ebb2d",
+      "id": "4a4e51a6-329f-411a-83a9-c828dd5ebb2d",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Demonstrated Competency: Python",
+      "content": "Successfully completed week 1 milestone project for Python.",
+      "details": {
+        "skill": "Python",
+        "proficiency": "Advanced",
+        "week": 1
+      },
+      "valid_from": "2026-11-25T18:03:55.108196",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "assessment_checkpoint",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T18:03:55.108205"
+    },
+    {
+      "_id": "7949d3cd-1bc3-408c-8922-f613abe512f5",
+      "id": "7949d3cd-1bc3-408c-8922-f613abe512f5",
+      "employee_id": "emp_alex_chen_001",
+      "memory_type": "skill_demonstrated",
+      "title": "Acquired New Competency: LangGraph Agentic Workflows",
+      "content": "Employee demonstrated proficiency in LangGraph Agentic Workflows at Advanced level.",
+      "details": {
+        "skill": "LangGraph Agentic Workflows",
+        "level": "Advanced"
+      },
+      "valid_from": "2026-11-25T18:03:55.503059",
+      "valid_to": null,
+      "confidence": 1.0,
+      "source": "digital_twin_update",
+      "applied_in_roadmap_version": null,
+      "created_at": "2026-11-25T18:03:55.503066"
+    }
+  ],
+  "roadmaps": [
+    {
+      "id": "6a57717d-9e63-4cbf-b2f5-9e39572525ef",
+      "employee_id": "emp_alex_chen_001",
+      "target_role": "AI Engineer",
+      "title": "Adaptive Career Roadmap: AI Engineer (v1)",
+      "version": 1,
+      "status": "active",
+      "estimated_duration_weeks": 6,
+      "total_estimated_hours": 120,
+      "difficulty": "Intermediate to Advanced",
+      "progress_percentage": 16.7,
+      "weekly_milestones": [
+        {
+          "week_number": 1,
+          "title": "Mastery of Python & Integration",
+          "focus_skill": "Python",
+          "status": "completed",
+          "objectives": [
+            "Understand core principles of Python in production environments.",
+            "Eliminate identified proficiency gap from Intermediate to Expert.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Python Implementation",
+            "description": "Construct an end-to-end production pipeline applying Python to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Python",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": "2026-11-25T18:03:55.105396"
+        },
+        {
+          "week_number": 2,
+          "title": "Mastery of RAG Architecture & Evaluators & Integration",
+          "focus_skill": "RAG Architecture & Evaluators",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of RAG Architecture & Evaluators in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on RAG Architecture & Evaluators Implementation",
+            "description": "Construct an end-to-end production pipeline applying RAG Architecture & Evaluators to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing RAG Architecture & Evaluators",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 3,
+          "title": "Mastery of LangChain & LlamaIndex & Integration",
+          "focus_skill": "LangChain & LlamaIndex",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of LangChain & LlamaIndex in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on LangChain & LlamaIndex Implementation",
+            "description": "Construct an end-to-end production pipeline applying LangChain & LlamaIndex to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing LangChain & LlamaIndex",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 4,
+          "title": "Mastery of Vector Databases (Pinecone/Milvus) & Integration",
+          "focus_skill": "Vector Databases (Pinecone/Milvus)",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Vector Databases (Pinecone/Milvus) in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Vector Databases (Pinecone/Milvus) Implementation",
+            "description": "Construct an end-to-end production pipeline applying Vector Databases (Pinecone/Milvus) to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Vector Databases (Pinecone/Milvus)",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 5,
+          "title": "Mastery of Model Fine-Tuning (LoRA / QLoRA) & Integration",
+          "focus_skill": "Model Fine-Tuning (LoRA / QLoRA)",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Model Fine-Tuning (LoRA / QLoRA) in production environments.",
+            "Eliminate identified proficiency gap from None to Intermediate.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Model Fine-Tuning (LoRA / QLoRA) Implementation",
+            "description": "Construct an end-to-end production pipeline applying Model Fine-Tuning (LoRA / QLoRA) to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Model Fine-Tuning (LoRA / QLoRA)",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 6,
+          "title": "Mastery of FastAPI & Async Backends & Integration",
+          "focus_skill": "FastAPI & Async Backends",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of FastAPI & Async Backends in production environments.",
+            "Eliminate identified proficiency gap from Intermediate to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on FastAPI & Async Backends Implementation",
+            "description": "Construct an end-to-end production pipeline applying FastAPI & Async Backends to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing FastAPI & Async Backends",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Machine Learning \u2013 Specialty",
+          "issuing_organization": "Amazon Web Services",
+          "relevance_score": 95,
+          "difficulty": "Advanced",
+          "url": "https://aws.amazon.com/certification/certified-machine-learning-specialty/",
+          "recommended_at_week": 8
+        },
+        {
+          "name": "DeepLearning.AI Generative AI for Everyone",
+          "issuing_organization": "DeepLearning.AI / Coursera",
+          "relevance_score": 92,
+          "difficulty": "Advanced",
+          "url": "https://www.coursera.org/learn/generative-ai-for-everyone",
+          "recommended_at_week": 2
+        },
+        {
+          "name": "Google Cloud Professional Machine Learning Engineer",
+          "issuing_organization": "Google Cloud",
+          "relevance_score": 94,
+          "difficulty": "Advanced",
+          "url": "https://cloud.google.com/learn/certification/machine-learning-engineer",
+          "recommended_at_week": 10
+        }
+      ],
+      "learning_roi": {
+        "total_estimated_hours": 120,
+        "weeks_to_complete": 6,
+        "weekly_commitment_hours": 8,
+        "projected_readiness_increase": "25.7% -> 60.7%",
+        "skills_to_acquire": 6,
+        "estimated_monetary_cost_usd": 294.0,
+        "market_salary_upside_percentage": "+28% average promotion uplift"
+      },
+      "memento_memory_influences": [
+        "Detected completed Python foundation in Memento memory: skipped introductory Python syntax."
+      ],
+      "firecrawl_evidence_sources": [
+        {
+          "title": "Stanford AI Index Report 2026",
+          "url": "https://aiindex.stanford.edu/report/",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "State of AI in Enterprise Engineering - IEEE",
+          "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Tech Talent & Skill Demand Index 2026",
+          "url": "https://github.blog/news-insights/research/",
+          "date": "2026-09-10"
+        }
+      ],
+      "created_at": "2026-11-25 16:21:29.630546",
+      "updated_at": "2026-11-25T18:03:55.105413",
+      "_id": "6a57717d-9e63-4cbf-b2f5-9e39572525ef"
+    },
+    {
+      "id": "12debe4e-900d-43a7-871f-9127894c93d6",
+      "employee_id": "hr_sarah_jenkins_001",
+      "target_role": "VP of Talent Intelligence",
+      "title": "Adaptive Career Roadmap: VP of Talent Intelligence (v1)",
+      "version": 1,
+      "status": "active",
+      "estimated_duration_weeks": 7,
+      "total_estimated_hours": 140,
+      "difficulty": "Intermediate to Advanced",
+      "progress_percentage": 0.0,
+      "weekly_milestones": [
+        {
+          "week_number": 1,
+          "title": "Mastery of Python & Integration",
+          "focus_skill": "Python",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Python in production environments.",
+            "Eliminate identified proficiency gap from None to Expert.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Python Implementation",
+            "description": "Construct an end-to-end production pipeline applying Python to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Python",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 2,
+          "title": "Mastery of RAG Architecture & Evaluators & Integration",
+          "focus_skill": "RAG Architecture & Evaluators",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of RAG Architecture & Evaluators in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on RAG Architecture & Evaluators Implementation",
+            "description": "Construct an end-to-end production pipeline applying RAG Architecture & Evaluators to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing RAG Architecture & Evaluators",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 3,
+          "title": "Mastery of LangChain & LlamaIndex & Integration",
+          "focus_skill": "LangChain & LlamaIndex",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of LangChain & LlamaIndex in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on LangChain & LlamaIndex Implementation",
+            "description": "Construct an end-to-end production pipeline applying LangChain & LlamaIndex to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing LangChain & LlamaIndex",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 4,
+          "title": "Mastery of Vector Databases (Pinecone/Milvus) & Integration",
+          "focus_skill": "Vector Databases (Pinecone/Milvus)",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Vector Databases (Pinecone/Milvus) in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Vector Databases (Pinecone/Milvus) Implementation",
+            "description": "Construct an end-to-end production pipeline applying Vector Databases (Pinecone/Milvus) to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Vector Databases (Pinecone/Milvus)",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 5,
+          "title": "Mastery of Model Fine-Tuning (LoRA / QLoRA) & Integration",
+          "focus_skill": "Model Fine-Tuning (LoRA / QLoRA)",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Model Fine-Tuning (LoRA / QLoRA) in production environments.",
+            "Eliminate identified proficiency gap from None to Intermediate.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Model Fine-Tuning (LoRA / QLoRA) Implementation",
+            "description": "Construct an end-to-end production pipeline applying Model Fine-Tuning (LoRA / QLoRA) to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Model Fine-Tuning (LoRA / QLoRA)",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 6,
+          "title": "Mastery of FastAPI & Async Backends & Integration",
+          "focus_skill": "FastAPI & Async Backends",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of FastAPI & Async Backends in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on FastAPI & Async Backends Implementation",
+            "description": "Construct an end-to-end production pipeline applying FastAPI & Async Backends to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing FastAPI & Async Backends",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 7,
+          "title": "Mastery of Docker & Containerization & Integration",
+          "focus_skill": "Docker & Containerization",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Docker & Containerization in production environments.",
+            "Eliminate identified proficiency gap from None to Intermediate.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Docker & Containerization Implementation",
+            "description": "Construct an end-to-end production pipeline applying Docker & Containerization to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Docker & Containerization",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Machine Learning \u2013 Specialty",
+          "issuing_organization": "Amazon Web Services",
+          "relevance_score": 95,
+          "difficulty": "Advanced",
+          "url": "https://aws.amazon.com/certification/certified-machine-learning-specialty/",
+          "recommended_at_week": 8
+        },
+        {
+          "name": "DeepLearning.AI Generative AI for Everyone",
+          "issuing_organization": "DeepLearning.AI / Coursera",
+          "relevance_score": 92,
+          "difficulty": "Advanced",
+          "url": "https://www.coursera.org/learn/generative-ai-for-everyone",
+          "recommended_at_week": 2
+        },
+        {
+          "name": "Google Cloud Professional Machine Learning Engineer",
+          "issuing_organization": "Google Cloud",
+          "relevance_score": 94,
+          "difficulty": "Advanced",
+          "url": "https://cloud.google.com/learn/certification/machine-learning-engineer",
+          "recommended_at_week": 10
+        }
+      ],
+      "learning_roi": {
+        "total_estimated_hours": 140,
+        "weeks_to_complete": 7,
+        "weekly_commitment_hours": 5,
+        "projected_readiness_increase": "0.0% -> 35.0%",
+        "skills_to_acquire": 7,
+        "estimated_monetary_cost_usd": 343.0,
+        "market_salary_upside_percentage": "+28% average promotion uplift"
+      },
+      "memento_memory_influences": [
+        "No prior Python completion detected: included essential production-ready Python patterns."
+      ],
+      "firecrawl_evidence_sources": [
+        {
+          "title": "Stanford AI Index Report 2026",
+          "url": "https://aiindex.stanford.edu/report/",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "State of AI in Enterprise Engineering - IEEE",
+          "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Tech Talent & Skill Demand Index 2026",
+          "url": "https://github.blog/news-insights/research/",
+          "date": "2026-09-10"
+        }
+      ],
+      "created_at": "2026-11-25 17:17:10.133426",
+      "updated_at": "2026-11-25 17:17:10.133446",
+      "_id": "12debe4e-900d-43a7-871f-9127894c93d6"
+    },
+    {
+      "id": "c6276088-0010-4b53-9a5e-92f3bc19de7a",
+      "employee_id": "admin_david_kim_001",
+      "target_role": "Head of Enterprise Education",
+      "title": "Adaptive Career Roadmap: Head of Enterprise Education (v1)",
+      "version": 1,
+      "status": "active",
+      "estimated_duration_weeks": 7,
+      "total_estimated_hours": 140,
+      "difficulty": "Intermediate to Advanced",
+      "progress_percentage": 0.0,
+      "weekly_milestones": [
+        {
+          "week_number": 1,
+          "title": "Mastery of Python & Integration",
+          "focus_skill": "Python",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Python in production environments.",
+            "Eliminate identified proficiency gap from None to Expert.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Python Implementation",
+            "description": "Construct an end-to-end production pipeline applying Python to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Python",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 2,
+          "title": "Mastery of RAG Architecture & Evaluators & Integration",
+          "focus_skill": "RAG Architecture & Evaluators",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of RAG Architecture & Evaluators in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on RAG Architecture & Evaluators Implementation",
+            "description": "Construct an end-to-end production pipeline applying RAG Architecture & Evaluators to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing RAG Architecture & Evaluators",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 3,
+          "title": "Mastery of LangChain & LlamaIndex & Integration",
+          "focus_skill": "LangChain & LlamaIndex",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of LangChain & LlamaIndex in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on LangChain & LlamaIndex Implementation",
+            "description": "Construct an end-to-end production pipeline applying LangChain & LlamaIndex to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing LangChain & LlamaIndex",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 4,
+          "title": "Mastery of Vector Databases (Pinecone/Milvus) & Integration",
+          "focus_skill": "Vector Databases (Pinecone/Milvus)",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Vector Databases (Pinecone/Milvus) in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Vector Databases (Pinecone/Milvus) Implementation",
+            "description": "Construct an end-to-end production pipeline applying Vector Databases (Pinecone/Milvus) to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Vector Databases (Pinecone/Milvus)",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 5,
+          "title": "Mastery of Model Fine-Tuning (LoRA / QLoRA) & Integration",
+          "focus_skill": "Model Fine-Tuning (LoRA / QLoRA)",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Model Fine-Tuning (LoRA / QLoRA) in production environments.",
+            "Eliminate identified proficiency gap from None to Intermediate.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Model Fine-Tuning (LoRA / QLoRA) Implementation",
+            "description": "Construct an end-to-end production pipeline applying Model Fine-Tuning (LoRA / QLoRA) to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Model Fine-Tuning (LoRA / QLoRA)",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 6,
+          "title": "Mastery of FastAPI & Async Backends & Integration",
+          "focus_skill": "FastAPI & Async Backends",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of FastAPI & Async Backends in production environments.",
+            "Eliminate identified proficiency gap from None to Advanced.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on FastAPI & Async Backends Implementation",
+            "description": "Construct an end-to-end production pipeline applying FastAPI & Async Backends to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing FastAPI & Async Backends",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        },
+        {
+          "week_number": 7,
+          "title": "Mastery of Docker & Containerization & Integration",
+          "focus_skill": "Docker & Containerization",
+          "status": "pending",
+          "objectives": [
+            "Understand core principles of Docker & Containerization in production environments.",
+            "Eliminate identified proficiency gap from None to Intermediate.",
+            "Pass peer-reviewed checkpoint and automated code benchmark."
+          ],
+          "courses": [
+            {
+              "title": "Generative AI with Large Language Models",
+              "provider": "DeepLearning.AI & AWS",
+              "difficulty": "Intermediate",
+              "duration_hours": 20,
+              "cost_usd": 49.0,
+              "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+              "verified_by_firecrawl": true
+            },
+            {
+              "title": "Building Applications with Vector Databases",
+              "provider": "DeepLearning.AI",
+              "difficulty": "Intermediate",
+              "duration_hours": 10,
+              "cost_usd": 0.0,
+              "url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases/",
+              "verified_by_firecrawl": true
+            }
+          ],
+          "practical_project": {
+            "title": "Hands-on Docker & Containerization Implementation",
+            "description": "Construct an end-to-end production pipeline applying Docker & Containerization to address real-world latency and reliability.",
+            "deliverables": [
+              "Modular code repository implementing Docker & Containerization",
+              "Automated integration test suite",
+              "Deployment container and benchmark results"
+            ],
+            "github_starter_url": "https://github.com/learningpath-ai/enterprise-blueprints"
+          },
+          "assessment_checkpoint": "Implement benchmark solution achieving >90% test coverage and latency SLA.",
+          "completed_at": null
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Machine Learning \u2013 Specialty",
+          "issuing_organization": "Amazon Web Services",
+          "relevance_score": 95,
+          "difficulty": "Advanced",
+          "url": "https://aws.amazon.com/certification/certified-machine-learning-specialty/",
+          "recommended_at_week": 8
+        },
+        {
+          "name": "DeepLearning.AI Generative AI for Everyone",
+          "issuing_organization": "DeepLearning.AI / Coursera",
+          "relevance_score": 92,
+          "difficulty": "Advanced",
+          "url": "https://www.coursera.org/learn/generative-ai-for-everyone",
+          "recommended_at_week": 2
+        },
+        {
+          "name": "Google Cloud Professional Machine Learning Engineer",
+          "issuing_organization": "Google Cloud",
+          "relevance_score": 94,
+          "difficulty": "Advanced",
+          "url": "https://cloud.google.com/learn/certification/machine-learning-engineer",
+          "recommended_at_week": 10
+        }
+      ],
+      "learning_roi": {
+        "total_estimated_hours": 140,
+        "weeks_to_complete": 7,
+        "weekly_commitment_hours": 10,
+        "projected_readiness_increase": "0.0% -> 35.0%",
+        "skills_to_acquire": 7,
+        "estimated_monetary_cost_usd": 343.0,
+        "market_salary_upside_percentage": "+28% average promotion uplift"
+      },
+      "memento_memory_influences": [
+        "No prior Python completion detected: included essential production-ready Python patterns."
+      ],
+      "firecrawl_evidence_sources": [
+        {
+          "title": "Stanford AI Index Report 2026",
+          "url": "https://aiindex.stanford.edu/report/",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "State of AI in Enterprise Engineering - IEEE",
+          "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Tech Talent & Skill Demand Index 2026",
+          "url": "https://github.blog/news-insights/research/",
+          "date": "2026-09-10"
+        }
+      ],
+      "created_at": "2026-11-25 17:17:11.931750",
+      "updated_at": "2026-11-25 17:17:11.931764",
+      "_id": "c6276088-0010-4b53-9a5e-92f3bc19de7a"
+    }
+  ],
+  "digital_twins": [
+    {
+      "_id": "twin_emp_alex_chen_001",
+      "employee_id": "emp_alex_chen_001",
+      "version": 4,
+      "professional_identity": {
+        "employee_id": "emp_alex_chen_001",
+        "name": "Alex Chen",
+        "current_designation": "Junior Software Developer",
+        "department": "Engineering",
+        "experience_level": "Junior",
+        "experience_years": 2.5,
+        "target_career_role": "AI Engineer",
+        "career_development_status": "Needs Action"
+      },
+      "skills": [
+        {
+          "name": "Python",
+          "category": "Programming",
+          "current_proficiency": "Intermediate",
+          "target_proficiency": "Advanced",
+          "industry_relevance": 88,
+          "learning_status": "In Progress",
+          "last_updated": "2026-11-25T18:03:55.505691",
+          "verified": true
+        },
+        {
+          "name": "FastAPI",
+          "category": "Programming",
+          "current_proficiency": "Intermediate",
+          "target_proficiency": "Advanced",
+          "industry_relevance": 88,
+          "learning_status": "In Progress",
+          "last_updated": "2026-11-25T18:03:55.505718",
+          "verified": true
+        },
+        {
+          "name": "Docker & Containerization",
+          "category": "Cloud Computing",
+          "current_proficiency": "Intermediate",
+          "target_proficiency": "Advanced",
+          "industry_relevance": 88,
+          "learning_status": "In Progress",
+          "last_updated": "2026-11-25T18:03:55.505729",
+          "verified": true
+        },
+        {
+          "name": "Git",
+          "category": "Other Professional Skills",
+          "current_proficiency": "Advanced",
+          "target_proficiency": "Advanced",
+          "industry_relevance": 88,
+          "learning_status": "Mastered",
+          "last_updated": "2026-11-25T18:03:55.505737",
+          "verified": true
+        },
+        {
+          "name": "LangGraph Agentic Workflows",
+          "category": "Other Professional Skills",
+          "current_proficiency": "Advanced",
+          "target_proficiency": "Advanced",
+          "industry_relevance": 88,
+          "learning_status": "Mastered",
+          "last_updated": "2026-11-25T18:03:55.505745",
+          "verified": true
+        },
+        {
+          "name": "LangGraph Agentic Workflows",
+          "category": "Other Professional Skills",
+          "current_proficiency": "Advanced",
+          "target_proficiency": "Advanced",
+          "industry_relevance": 88,
+          "learning_status": "Mastered",
+          "last_updated": "2026-11-25T18:03:55.505751",
+          "verified": true
+        },
+        {
+          "name": "LangGraph Agentic Workflows",
+          "category": "Other Professional Skills",
+          "current_proficiency": "Advanced",
+          "target_proficiency": "Advanced",
+          "industry_relevance": 88,
+          "learning_status": "Mastered",
+          "last_updated": "2026-11-25T18:03:55.505757",
+          "verified": true
+        }
+      ],
+      "readiness": {
+        "target_role": "AI Engineer",
+        "overall_readiness_percentage": 25.7,
+        "matching_skills": [
+          "Docker & Containerization"
+        ],
+        "missing_skills": [
+          "RAG Architecture & Evaluators",
+          "LangChain & LlamaIndex",
+          "Vector Databases (Pinecone/Milvus)",
+          "Model Fine-Tuning (LoRA / QLoRA)"
+        ],
+        "partially_developed_skills": [
+          "Python",
+          "FastAPI & Async Backends"
+        ],
+        "recommended_improvements": [
+          "Elevate Python from Intermediate to Expert",
+          "Elevate RAG Architecture & Evaluators from None to Advanced",
+          "Elevate LangChain & LlamaIndex from None to Advanced"
+        ],
+        "explainable_calculation": "Readiness Score of 25.7% is computed by benchmarking 7 core competency vectors required for AI Engineer. You currently hold 1 matching verified skills, with 2 requiring proficiency advancement and 4 missing competencies.",
+        "formula_breakdown": {
+          "proficient_weight": "100%",
+          "needs_improvement_weight": "50%",
+          "missing_weight": "0%",
+          "total_target_competencies": 7
+        }
+      },
+      "predicted_gaps": [
+        {
+          "skill_name": "RAG Systems & Agentic Orchestration",
+          "category": "GenAI Architecture",
+          "demand_nature": "Observed Demand",
+          "severity": "Critical",
+          "rationale": "Enterprises transitioning from basic prompt wrappers to multi-agent autonomous loops and hybrid search RAG.",
+          "supporting_sources": [
+            {
+              "name": "Stanford AI Index 2026",
+              "url": "https://aiindex.stanford.edu"
+            },
+            {
+              "name": "IEEE Spectrum GenAI Review",
+              "url": "https://spectrum.ieee.org"
+            }
+          ]
+        },
+        {
+          "skill_name": "Vector Databases (Milvus / Pinecone)",
+          "category": "Data Systems",
+          "demand_nature": "Observed Demand",
+          "severity": "Moderate",
+          "rationale": "Crucial requirement for enterprise search, semantic retrieval, and long-term agent memory indexing.",
+          "supporting_sources": [
+            {
+              "name": "DB-Engines Ranking 2026",
+              "url": "https://db-engines.com"
+            }
+          ]
+        },
+        {
+          "skill_name": "Edge AI & Small Language Models (SLMs)",
+          "category": "Emerging",
+          "demand_nature": "AI-Generated Forecast",
+          "severity": "Moderate",
+          "rationale": "On-device inference (Gemma, Phi, LLaMA-tiny) prioritized for latency, cost reduction, and data sovereignty.",
+          "supporting_sources": [
+            {
+              "name": "Google AI Research 2026",
+              "url": "https://research.google"
+            }
+          ]
+        },
+        {
+          "skill_name": "Legacy Monolithic ETL & Hadoop",
+          "category": "Data Infrastructure",
+          "demand_nature": "Observed Market Contraction",
+          "severity": "Moderate",
+          "rationale": "Deprecated in favor of real-time streaming, modern lakehouses (Iceberg), and dbt / Polars workflows.",
+          "supporting_sources": [
+            {
+              "name": "Gartner Data & Analytics Trends",
+              "url": "https://gartner.com"
+            }
+          ]
+        }
+      ],
+      "version_history": [
+        {
+          "version": 4,
+          "updated_at": "2026-11-25T18:03:55.506002",
+          "trigger_event": "Activity Triggered: Skill added",
+          "previous_readiness": 15.7,
+          "new_readiness": 25.7,
+          "summary_of_changes": "Digital Twin version 4 compiled. Aligned against AI Engineer standard."
+        }
+      ],
+      "created_at": "2026-11-25T18:03:55.506013",
+      "updated_at": "2026-11-25T18:03:55.506016",
+      "id": "twin_emp_alex_chen_001"
+    }
+  ]
+}
