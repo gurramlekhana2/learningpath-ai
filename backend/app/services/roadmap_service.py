@@ -42,7 +42,7 @@ class RoadmapService:
 
         # Check existing roadmaps for this employee
         col = db_manager.get_collection("roadmaps")
-        existing_roadmaps = await (await col.find({"employee_id": employee_id, "target_role": target}, sort=[("version", -1)])).to_list(10)
+        existing_roadmaps = await (col.find({"employee_id": employee_id, "target_role": target}, sort=[("version", -1)])).to_list(10)
         current_version = 1
         if existing_roadmaps and not force_new_version:
             # Return active roadmap if not forcing generation
@@ -209,7 +209,7 @@ class RoadmapService:
 
     async def get_current_roadmap(self, employee_id: str) -> Optional[LearningRoadmap]:
         col = db_manager.get_collection("roadmaps")
-        docs = await (await col.find({"employee_id": employee_id}, sort=[("version", -1)])).to_list(1)
+        docs = await (col.find({"employee_id": employee_id}, sort=[("version", -1)])).to_list(1)
         if docs:
             return LearningRoadmap(**docs[0])
         return None
@@ -288,7 +288,7 @@ class RoadmapService:
         if target_role:
             query["target_role"] = target_role
 
-        history = await (await col.find(query, sort=[("version", -1)])).to_list(10)
+        history = await (col.find(query, sort=[("version", -1)])).to_list(10)
 
         if len(history) < 2:
             # Generate simulated baseline comparison if only 1 version exists yet

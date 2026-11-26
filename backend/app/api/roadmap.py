@@ -59,7 +59,7 @@ async def update_roadmap_progress(
 async def get_roadmap_history(current_user: dict = Depends(get_current_user)):
     """Get all past and present roadmap versions."""
     col = db_manager.get_collection("roadmaps")
-    history = await (await col.find({"employee_id": current_user["id"]}, sort=[("version", -1)])).to_list(20)
+    history = await (col.find({"employee_id": current_user["id"]}, sort=[("version", -1)])).to_list(20)
     return {"versions": history, "count": len(history)}
 
 @router.get("/evolution")

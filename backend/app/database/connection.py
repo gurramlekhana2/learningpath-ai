@@ -62,7 +62,7 @@ class LocalCollection:
                 return res
         return None
 
-    async def find(self, query: Dict[str, Any] = None, sort: Optional[List] = None, limit: Optional[int] = None) -> 'LocalCursor':
+    def find(self, query: Dict[str, Any] = None, sort: Optional[List] = None, limit: Optional[int] = None) -> 'LocalCursor':
         query = query or {}
         docs = self.db_store.data.get(self.name, [])
         matched = [dict(d) for d in docs if self._matches_query(d, query)]

@@ -86,7 +86,7 @@ class MementoMemoryService:
         if memory_type:
             mongo_query["memory_type"] = memory_type
 
-        cursor = await col.find(mongo_query, sort=[("created_at", -1)], limit=limit)
+        cursor = col.find(mongo_query, sort=[("created_at", -1)], limit=limit)
         results = await cursor.to_list(length=limit)
 
         if query:
@@ -174,7 +174,7 @@ class MementoMemoryService:
 
     async def clear_all(self, employee_id: str) -> int:
         col = db_manager.get_collection("memento_memories")
-        docs = await (await col.find({"employee_id": employee_id})).to_list(100)
+        docs = await (col.find({"employee_id": employee_id})).to_list(100)
         for doc in docs:
             await col.delete_one({"_id": doc["_id"]})
         return len(docs)

@@ -15,7 +15,7 @@ class WorkforceAnalyticsService:
         if department_filter and department_filter != "ALL":
             query["department"] = department_filter
 
-        employees = await (await users_col.find(query)).to_list(100)
+        employees = await (users_col.find(query)).to_list(100)
         total_employees = len(employees)
 
         # 1. Total Employee Skill Distribution across 8 Categories

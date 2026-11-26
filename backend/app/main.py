@@ -28,7 +28,7 @@ logger = logging.getLogger("learningpath.main")
 async def seed_demo_data():
     """Seeds realistic demonstration accounts and Memento memories."""
     users_col = db_manager.get_collection("users")
-    count = await users_col.count_documents()
+    count = await users_col.count_documents({})
     if count > 0:
         logger.info(f"Database already populated ({count} users). Skipping seed.")
         return

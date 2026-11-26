@@ -12,7 +12,7 @@ async def get_hr_dashboard(current_user: dict = Depends(require_roles(["hr_manag
     Workforce readiness, department-level skill gaps, and organizational skill shortages.
     """
     users_col = db_manager.get_collection("users")
-    employees = await (await users_col.find({"role": "employee"})).to_list(100)
+    employees = await (users_col.find({"role": "employee"})).to_list(100)
 
     total_employees = len(employees)
     avg_readiness = round(sum(e.get("readiness_score", 60.0) for e in employees) / max(total_employees, 1), 1)
@@ -50,7 +50,7 @@ async def get_hr_dashboard(current_user: dict = Depends(require_roles(["hr_manag
 async def list_employees(current_user: dict = Depends(require_roles(["hr_manager", "learning_admin"]))):
     """View employee learning progress list for authorized HR roles."""
     users_col = db_manager.get_collection("users")
-    employees = await (await users_col.find({"role": "employee"})).to_list(100)
+    employees = await (users_col.find({"role": "employee"})).to_list(100)
     sanitized = []
     for e in employees:
         e_copy = dict(e)
