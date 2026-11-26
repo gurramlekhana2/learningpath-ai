@@ -42,6 +42,8 @@ export function App() {
   // Unauthenticated Flow
   if (!isAuthenticated) {
     if (showAuthModal) {
+      // onAuthenticated: close the auth modal; isAuthenticated will flip to true
+      // from AuthContext's setUser(), which will naturally re-render the app.
       return <AuthPage onAuthenticated={() => setShowAuthModal(false)} />;
     }
     return (

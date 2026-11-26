@@ -1,4 +1,6 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api';
+// Use relative path so Vite's dev-server proxy handles cross-origin correctly.
+// In production, set VITE_API_URL to your deployed backend URL.
+const API_BASE_URL = import.meta.env.VITE_API_URL || '/api';
 
 class ApiService {
   getToken() {

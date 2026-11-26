@@ -44,6 +44,8 @@ export const AuthProvider = ({ children }) => {
       setUser(data.user);
       setToken(data.access_token);
       return data.user;
+    } catch (err) {
+      throw err;
     } finally {
       setLoading(false);
     }
@@ -56,6 +58,8 @@ export const AuthProvider = ({ children }) => {
       setUser(data.user);
       setToken(data.access_token);
       return data.user;
+    } catch (err) {
+      throw err;
     } finally {
       setLoading(false);
     }
